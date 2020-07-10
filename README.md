@@ -1,7 +1,7 @@
 ### Hi there 👋 
 - 🌱 I’m currently learning on Django Based Website for Organizing activity and Blogging
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sudhanshu212/)
-
+- 👯 I’m looking to collaborate on Machine learning Projects 
 
 
 <!--
