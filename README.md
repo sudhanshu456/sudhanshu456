@@ -6,7 +6,7 @@
 - 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf)
 
 
-![Sudhanshu's github stats] (https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
+[Sudhanshu's github stats] (https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
 <!--
 **sudhanshu456/sudhanshu456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
