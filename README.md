@@ -2,12 +2,12 @@
 ### Hi there 👋 
 - 🌱 I’m a Tech gadgets lover, Love to Create insight from a data, visualization pretty cool huh !
 - 👯 I’m looking to collaborate on Machine learning Projects 
-- 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
-- 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
 - 💬 Ask me about Machine Learning(Pytorch, Tensorflow, Sckitlearn), Web Development ( Django, Js, HTML, CSS, MYSQL, PostgreSQL)
 - 🌱 I’m currently learning working on React & nodejs
 - 🤔 I’m looking for help with Vuejs
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sudhanshu212/)
+- 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
+- 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
 - ⚡ Fun fact: I don't code see my github stats 😄 !! 
 
 
