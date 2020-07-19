@@ -3,7 +3,7 @@
 - 🌱 I’m a Tech gadgets lover, Love to Create insight from a data, visualization pretty cool huh !
 - 👯 I’m looking to collaborate on Machine learning Projects 
 - 💬 Ask me about Machine Learning(Pytorch, Tensorflow, Sckitlearn), Web Development ( Django, Js, HTML, CSS, MYSQL, PostgreSQL)
-- 🌱 I’m currently learning working on React & nodejs
+- 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with Vuejs
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sudhanshu212/)
 - 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
