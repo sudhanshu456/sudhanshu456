@@ -8,7 +8,12 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sudhanshu212/)
 - 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
 - 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
-- ⚡ Fun fact: Love to play badminton & watch some scifi series like WestWorld, Big Foodie 😄 !! 
+- ⚡ Fun fact: Love play badminton & watch some scifi series like WestWorld, Big Foodie 😄 !! 
+
+
+
+![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
 
 
 
@@ -46,16 +51,6 @@
 <!-- STACKOVERFLOW:END -->
 
 <br />
-
-<br/>
-
-![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
-
-
-
-
-
 <!--
 **sudhanshu456/sudhanshu456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
