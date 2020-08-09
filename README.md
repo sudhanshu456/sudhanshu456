@@ -12,11 +12,6 @@
 
 
 
-![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
-
-
-
 
 
 
@@ -48,14 +43,19 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Comment by Sudhanshu Prajapati on Django Ckeditor 5 toolbar not visible?](https://stackoverflow.com/questions/62810394/django-ckeditor-5-toolbar-not-visible)
-- [Comment by Sudhanshu Prajapati on django.db.utils.IntegrityError: NOT NULL constraint failed: products_product.image ERROR WITH IMAGE FIELD](https://stackoverflow.com/questions/42733221/django-db-utils-integrityerror-not-null-constraint-failed-products-product-ima/54135588#54135588)
-- [Comment by Sudhanshu Prajapati on Runtime error while running PyTorch model on local machine](https://stackoverflow.com/questions/62400718/runtime-error-while-running-pytorch-model-on-local-machine/62403717#62403717)
-- [Runtime error while running PyTorch model on local machine](https://stackoverflow.com/questions/62400718/runtime-error-while-running-pytorch-model-on-local-machine)
-- [How i extract text from a model dialog in selenium?](https://stackoverflow.com/questions/62330974/how-i-extract-text-from-a-model-dialog-in-selenium)
 <!-- STACKOVERFLOW:END -->
 
 <br />
+
+<br/>
+
+![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
+
+
+
+
+
 <!--
 **sudhanshu456/sudhanshu456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
