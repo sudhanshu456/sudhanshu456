@@ -48,11 +48,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Comment by Sudhanshu Prajapati on Django Ckeditor 5 toolbar not visible?](https://stackoverflow.com/questions/62810394/django-ckeditor-5-toolbar-not-visible)
-- [Comment by Sudhanshu Prajapati on django.db.utils.IntegrityError: NOT NULL constraint failed: products_product.image ERROR WITH IMAGE FIELD](https://stackoverflow.com/questions/42733221/django-db-utils-integrityerror-not-null-constraint-failed-products-product-ima/54135588#54135588)
-- [Comment by Sudhanshu Prajapati on Runtime error while running PyTorch model on local machine](https://stackoverflow.com/questions/62400718/runtime-error-while-running-pytorch-model-on-local-machine/62403717#62403717)
 - [Runtime error while running PyTorch model on local machine](https://stackoverflow.com/questions/62400718/runtime-error-while-running-pytorch-model-on-local-machine)
 - [How i extract text from a model dialog in selenium?](https://stackoverflow.com/questions/62330974/how-i-extract-text-from-a-model-dialog-in-selenium)
+- [Answer by Sudhanshu Prajapati for In SparkAR 3D custom object is not working properly as AR library 3D object on same code](https://stackoverflow.com/questions/61975412/in-sparkar-3d-custom-object-is-not-working-properly-as-ar-library-3d-object-on-s/62303939#62303939)
+- [How it is encode in javascript?](https://stackoverflow.com/questions/62303636/how-it-is-encode-in-javascript)
+- [Answer by Sudhanshu Prajapati for How to increment score when a condition is met using list comprehensions](https://stackoverflow.com/questions/62300377/how-to-increment-score-when-a-condition-is-met-using-list-comprehensions/62301101#62301101)
 <!-- STACKOVERFLOW:END -->
 
 <br />
