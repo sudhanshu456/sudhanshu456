@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with Vuejs
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sudhanshu212/)
-- 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
 - 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
 - ⚡ Fun fact: Love play badminton & watch some scifi series like WestWorld, Big Foodie 😄 !! 
 
@@ -14,7 +13,7 @@
 <!-- something 
 ![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
-
+- 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
 
 -->
 
