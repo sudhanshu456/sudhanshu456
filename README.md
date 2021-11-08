@@ -1,7 +1,7 @@
 
 ### Hi there 👋 
-- 🌱 I’m a Tech gadgets lover, Love to Create insight from a data, visualization pretty cool huh !
-- 💬 Ask me about Machine Learning(Pytorch, Tensorflow, Sckitlearn), Web Development ( Django, Js, HTML, CSS, MYSQL, PostgreSQL)
+- 🌱 I’m a Tech gadgets lover.
+- 💬 Ask me about Backend Development & Machine Learning(Pytorch, Tensorflow, Sckitlearn).
 <!-- - 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with Vuejs -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sudhanshu212/)
