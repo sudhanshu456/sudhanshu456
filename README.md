@@ -1,7 +1,7 @@
 
 ### Hi there 👋 
 - 🌱 I’m a Tech gadgets lover.
-- 💬 Ask me about Backend Development & Machine Learning(Pytorch, Tensorflow, Sckitlearn).
+- 💬 Ask me about Backend Development.
 <!-- - 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with Vuejs -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sudhanshu212/)
