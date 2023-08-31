@@ -1,10 +1,10 @@
 
-### Hi there 👋 
-- 🌱 I’m a Tech gadgets lover.
-- 💬 Ask me about Backend Development.
+### Hi 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sudhanshu212/)
+<!--
 - ⚡ Fun fact: Love play badminton & watch some scifi series like WestWorld, Big Foodie 😄 !! 
+-->
 
 <!-- - 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with Vuejs -->
