@@ -1,7 +1,8 @@
 
-### Hi 
-
+<img src="https://pbs.twimg.com/media/FBEmCyeVQAETiet?format=jpg&name=900x900" alt="my honest reaction" width="200"/>
+<!--
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sudhanshu212/)
+-->
 <!--
 - ⚡ Fun fact: Love play badminton & watch some scifi series like WestWorld, Big Foodie 😄 !! 
 -->
