@@ -21,7 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Get Your hands Dirty in these Before approaching Machine Learning field](https://medium.com/@spsupraj2d/get-your-hands-dirty-in-these-before-approaching-machine-learning-field-71f56c461c72?source=rss-4b5584b42d16------2)
+- [Running Phi 3 with vLLM and Ray Serve](https://medium.com/infracloud-technologies/running-phi-3-with-vllm-and-ray-serve-375b85f8d7d2?source=rss-4b5584b42d16------2)
+- [Primer on Distributed Parallel Processing with Ray using KubeRay](https://medium.com/infracloud-technologies/primer-on-distributed-parallel-processing-with-ray-using-kuberay-6eda442fd957?source=rss-4b5584b42d16------2)
+- [10 Feature Flag Tools to Confidently Release New Features](https://medium.com/infracloud-technologies/10-feature-flag-tools-to-confidently-release-new-features-2c9efc436674?source=rss-4b5584b42d16------2)
+- [GitOps using Flux and Flagger](https://medium.com/infracloud-technologies/gitops-using-flux-and-flagger-f0febf7e164b?source=rss-4b5584b42d16------2)
+- [Get Your hands Dirty in these Before approaching Machine Learning field](https://sudhanshu456.medium.com/get-your-hands-dirty-in-these-before-approaching-machine-learning-field-71f56c461c72?source=rss-4b5584b42d16------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
